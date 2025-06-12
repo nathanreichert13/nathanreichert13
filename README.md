@@ -13,7 +13,7 @@
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,sequelize,sql,git,figma,github"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,sequelize,mysql,git,figma,github"/>
 </a>
 
 
