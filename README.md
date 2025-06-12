@@ -16,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,sequelize,sql,git,figma,github"/>
 </a>
 
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=728&height=41&lines=👇+Entre+em+contato;Vamos+conversar+🤝)](https://git.io/typing-svg)
 
